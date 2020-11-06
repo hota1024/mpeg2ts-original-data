@@ -20,6 +20,7 @@
   "dependencies": {
     "@types/node": "^14.14.6",
     "bit-buffer": "^0.2.4",
+    "buffer-chunks": "^0.1.1",
     "sophy": "^0.0.3"
   }
 }
